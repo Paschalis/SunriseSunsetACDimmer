@@ -19,14 +19,6 @@ The Sunrise-Sunset Automatic Dimmer is a microcontroller-based project designed 
 - ATmega328P Microcontroller
 - KiCad for PCB Design
 
-## Getting Started
-To implement this project, follow the steps below:
-1. **PCB Fabrication**: Use the provided KiCad files to fabricate the PCB.
-2. **Component Soldering**: Solder the ATmega328p, 4n35 optocoupler, IRF740 Power MOSFET, and other components onto the PCB.
-3. **Programming**: Use the Arduino IDE to upload the dimming control software to the ATmega328p microcontroller.
-4. **Configuration**: Set the desired start and end times for the dimming process through the user input points.
-5. **Installation**: Install the system within the poultry farm setup and connect it to the AC lighting system.
-
 <!--## Configuration & Usage
 Detailed instructions on configuring the start and end times for the dimming process, as well as guidelines for optimal usage within a poultry farm environment, are available in the [Configuration Guide](/docs/configuration-guide.md).-->
 
