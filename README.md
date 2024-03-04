@@ -3,8 +3,6 @@
 ## Overview
 The Sunrise-Sunset Automatic Dimmer is a microcontroller-based project designed to optimize lighting conditions in large poultry farms through precise dimming control. This system automatically adjusts the light intensity to simulate sunrise and sunset, creating ideal conditions for poultry. It utilizes a custom PCB designed with KiCad, incorporating an ATmega328p microcontroller, a 4n35 optocoupler, and an IRF740 Power MOSFET transistor for seamless light intensity control.
 
-[![Contributors][contributors-src]][contributors-href]
-
 ## Project Description
 
 ![Alt Text](output.gif)
@@ -37,5 +35,3 @@ This project is licensed under the
 
 [![License: GPL v3](https://img.shields.io/badge/License-GPLv3-purple.svg)](https://www.gnu.org/licenses/gpl-3.0)
 
-
-[contributors-src]: https://badgen.net/github/contributors/badgen/badgen.net
