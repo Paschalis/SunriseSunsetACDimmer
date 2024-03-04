@@ -29,4 +29,10 @@ Detailed instructions on configuring the start and end times for the dimming pro
 
 ## License
 
-This project is licensed under the [GNU General Public License Version 3 (GPLv3)](LICENSE).
+This project is licensed under the
+
+⚖ [GNU General Public License Version 3 (GPLv3)](LICENSE)
+
+</br>
+
+[![License: GPL v3](https://img.shields.io/badge/License-GPLv3-purple.svg)](https://www.gnu.org/licenses/gpl-3.0)
