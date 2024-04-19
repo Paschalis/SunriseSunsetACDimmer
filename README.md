@@ -7,7 +7,7 @@ The Sunrise-Sunset Automatic Dimmer is a microcontroller-based project designed 
 
 ![Alt Text](output.gif)
 
-## Features
+## 🛠️ Features
 - **Automatic Light Dimming**: Simulates sunrise and sunset to provide natural lighting conditions.
 - **User-configurable Timers**: Allows setting custom start and end times for the dimming process.
 - **Precise Control**: Utilizes a 4n35 optocoupler and an IRF740 Power MOSFET for accurate light intensity adjustments.
@@ -22,16 +22,15 @@ The Sunrise-Sunset Automatic Dimmer is a microcontroller-based project designed 
 <!--## Configuration & Usage
 Detailed instructions on configuring the start and end times for the dimming process, as well as guidelines for optimal usage within a poultry farm environment, are available in the [Configuration Guide](/docs/configuration-guide.md).-->
 
-## Author
+## 👨‍💻 Author
 - Paschalis Moschogiannis (Contact: [pmoschogiannis@uth.gr](mailto:pmoschogiannis@uth.gr))
 
-## License
+## 📜 License
 
-This project is licensed under the
-
-⚖ [GNU General Public License Version 3 (GPLv3)](LICENSE)
+This project is licensed under the ⚖ [GNU General Public License Version 3 (GPLv3)](LICENSE)
 
 </br>
 
-[![License: GPL v3](https://img.shields.io/badge/License-GPLv3-purple.svg)](https://www.gnu.org/licenses/gpl-3.0)
+- [![License: GPL v3](https://img.shields.io/badge/License-GPLv3-purple.svg)](https://www.gnu.org/licenses/gpl-3.0)
 
+**Thank you for visiting SunriseSunsetACDimmer!**
