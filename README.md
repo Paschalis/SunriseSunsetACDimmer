@@ -23,7 +23,7 @@ The Sunrise-Sunset Automatic Dimmer is a microcontroller-based project designed 
 Detailed instructions on configuring the start and end times for the dimming process, as well as guidelines for optimal usage within a poultry farm environment, are available in the [Configuration Guide](/docs/configuration-guide.md).-->
 
 ## 👨‍💻 Author
-- Paschalis Moschogiannis (Contact: [pmoschogiannis@uth.gr](mailto:pmoschogiannis@uth.gr))
+- Paschalis Μ (Contact: [pmoschogiannis@uth.gr](mailto:pmoschogiannis@uth.gr))
 
 ## 📜 License
 
